@@ -1,2 +1,2 @@
 # SimpleMessenger
-A simple Android instant messenger app demo
+An Android instant messenger app demo
